@@ -103,6 +103,7 @@
         "symfony/ovh-cloud-notifier": "<7.0 || >=7.1",
         "symfony/pager-duty-notifier": "<7.0 || >=7.1",
         "symfony/password-hasher": "<7.0 || >=7.1",
+        "symfony/phpunit-bridge": "<7.0 || >=7.1",
         "symfony/phrase-translation-provider": "<7.0 || >=7.1",
         "symfony/plivo-notifier": "<7.0 || >=7.1",
         "symfony/postmark-mailer": "<7.0 || >=7.1",
